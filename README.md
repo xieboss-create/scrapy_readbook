@@ -1,0 +1,2 @@
+# scrapy_readbook
+使用scrapy爬虫框架，爬取读书网的图书资料，通过CrawlSpider下载多页，并使用管道将数据保存到数据库
